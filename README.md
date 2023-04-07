@@ -2,6 +2,7 @@
 This Repo contains what I learned from "the great teacher" 
 ### PinkWink
 The whole process is to learn _**the data process and analysis**_
+## Title: Basic of Python, Pandas and Matplotlib  via analysis of CCTV in Seoul
 ***
 The below csv files show you the results with the python code in this repo
 ***
