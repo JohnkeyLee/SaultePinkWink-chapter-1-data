@@ -4,7 +4,7 @@ This Repo contains what I learned from "the great teacher"
 The whole process is to learn _**the data process and analysis**_
 ## Title: Basic of Python, Pandas and Matplotlib  via analysis of CCTV in Seoul
 ***
-The below csv files show you the results with the python code in this repo
+The below csv files and figures show you the results with the python code in this repo
 ***
 ### 1-1
 [1-1-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179705/1-1-results.csv)
