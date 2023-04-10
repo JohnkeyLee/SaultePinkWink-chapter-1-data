@@ -17,6 +17,7 @@ The below csv files show you the results with the python code in this repo
 
 ### 1-4
 [1-4-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11193084/1-4-results.csv)
+
 ![Figure_1](https://user-images.githubusercontent.com/103592307/230972478-6808dac8-83b7-4dbd-87eb-0674744c6987.png)
 ![Figure_2](https://user-images.githubusercontent.com/103592307/230972470-7beb9231-1038-4b9c-ab0e-5e53620af044.png)
 ![Figure_3](https://user-images.githubusercontent.com/103592307/230972471-309614d2-6343-4a7f-b67b-4fcccdad09ab.png)
