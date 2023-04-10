@@ -14,3 +14,13 @@ The below csv files show you the results with the python code in this repo
 
 ### 1-3
 [1-3-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179701/1-3-results.csv)
+
+### 1-4
+[1-4-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11193084/1-4-results.csv)
+![Figure_1](https://user-images.githubusercontent.com/103592307/230972478-6808dac8-83b7-4dbd-87eb-0674744c6987.png)
+![Figure_2](https://user-images.githubusercontent.com/103592307/230972470-7beb9231-1038-4b9c-ab0e-5e53620af044.png)
+![Figure_3](https://user-images.githubusercontent.com/103592307/230972471-309614d2-6343-4a7f-b67b-4fcccdad09ab.png)
+![Figure_4](https://user-images.githubusercontent.com/103592307/230972472-64f6ec5b-7744-4463-a117-446c8c7bbd11.png)
+![Figure_5](https://user-images.githubusercontent.com/103592307/230972474-1d52846b-7b73-4f94-9e29-af84a32cf003.png)
+![Figure_6](https://user-images.githubusercontent.com/103592307/230972475-884b83e5-5249-4990-b167-723bd7060f95.png)
+
