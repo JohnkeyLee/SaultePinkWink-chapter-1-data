@@ -6,7 +6,7 @@ The whole process is to learn _**the data processing and analysis**_
 <br/>**Task:** Data processing with csv files 
 <br/>**Work environment:** 
 > python 3.9.5 (4/15/2023)
-<br/>
+
 ***
 The below csv files and figures show you the results with the python code in this repo
 ***
