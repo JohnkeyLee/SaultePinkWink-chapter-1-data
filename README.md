@@ -6,9 +6,9 @@ The whole process is to learn _**the data processing and analysis**_
 <br/>**Task:** Data processing with csv files 
 <br/>**Work environment:** 
 > python 3.9.5 (4/15/2023)
-> pandas 1.5.3 
-> matplotlib 3.7.0
-> numpy 1.24.2
+<br/>pandas 1.5.3 
+<br/>matplotlib 3.7.0
+<br/>numpy 1.24.2
 ***
 The below csv files and figures show you the results with the python code in this repo
 ***
