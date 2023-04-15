@@ -18,10 +18,8 @@ The below csv files and figures show you the results with the python code in thi
 ### 1-2: Call csv file and rename columns
 [1-2-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179704/1-2-results.csv)
 
-### 1-3
-[1-3-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179701/1-3-results.csv)
-
-### 1-4
+### 1-4: To proceed this process, you need to check [SalutePinkWink-pandas-matplotlib-dataframe](https://github.com/JohnkeyLee/SalutePinkWink-pandas-matplotlib-dataframe)
+<br/>Analyze population and CCTV data in Seoul and look for a correlation
 [1-4-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11193084/1-4-results.csv)
 
 ![Figure_1](https://user-images.githubusercontent.com/103592307/230972478-6808dac8-83b7-4dbd-87eb-0674744c6987.png)
