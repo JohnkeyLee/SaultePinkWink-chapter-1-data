@@ -10,10 +10,10 @@ The whole process is to learn _**the data processing and analysis**_
 ***
 The below csv files and figures show you the results with the python code in this repo
 ***
-### 1-1
+### 1-1: Call csv file and rename a column
 [1-1-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179705/1-1-results.csv)
 
-### 1-2
+### 1-2: Call csv file and rename columns
 [1-2-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179704/1-2-results.csv)
 
 ### 1-3
