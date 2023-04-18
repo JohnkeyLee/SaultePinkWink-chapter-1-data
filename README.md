@@ -12,13 +12,13 @@ The whole process is to learn _**the data processing and analysis**_
 ***
 The below csv files and figures show you the results with the python code in this repo
 ***
-### 1-1: Call csv file and rename a column
+### (1) 1-1: Call csv file and rename a column
 [1-1-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179705/1-1-results.csv)
-
-### 1-2: Call csv file and rename columns
+***
+### (2) 1-2: Call csv file and rename columns
 [1-2-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11179704/1-2-results.csv)
-
-### 1-4: To proceed this process, you need to check [SalutePinkWink-pandas-matplotlib-dataframe](https://github.com/JohnkeyLee/SalutePinkWink-pandas-matplotlib-dataframe) first
+***
+### (3) 1-4: To proceed this process, you need to check [SalutePinkWink-pandas-matplotlib-dataframe](https://github.com/JohnkeyLee/SalutePinkWink-pandas-matplotlib-dataframe) first
 ### Analyze population and CCTV data in Seoul and look for a correlation
 [1-4-results.csv](https://github.com/JohnkeyLee/SaultePinkWink-chapter-1/files/11193084/1-4-results.csv)
 
